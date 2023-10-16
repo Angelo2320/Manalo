@@ -1,0 +1,22 @@
+.colored-word {
+    color: gold; 
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.blue-text {
+    color: blue; /* Set the text color to blue. */
+    font-weight: bold; /* Make the text bold. */
+}
+p {
+    text-align: justify;
+}
+
+footer { 
+    color: gray;
+    font: italic;
+}
+
